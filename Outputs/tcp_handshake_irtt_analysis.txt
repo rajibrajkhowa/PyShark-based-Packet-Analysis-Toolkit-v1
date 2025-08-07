@@ -1,0 +1,4434 @@
+TCP 3-Way Handshake and iRTT Analysis Summary:
+Total TCP flows (based on TCP Stream Index): 483
+Total TCP flows with SYN or SYN-ACK: 391
+Successful handshakes: 364
+Failed handshakes: 27
+Data-only flows (handshake not captured): 14
+
+Detailed Analysis:
+
+TCP Stream Index: 0
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 1
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.018766 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55950
+  Destination IP:Port - 72.14.213.102:80
+
+TCP Stream Index: 2
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.018595 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52152
+  Destination IP:Port - 72.14.213.147:443
+
+TCP Stream Index: 3
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.078768 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55953
+  Destination IP:Port - 65.55.206.209:80
+
+TCP Stream Index: 4
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.016471 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55954
+  Destination IP:Port - 65.55.17.37:80
+
+TCP Stream Index: 5
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012347 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55955
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 6
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.032519 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55956
+  Destination IP:Port - 66.235.139.121:80
+
+TCP Stream Index: 7
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.018030 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55957
+  Destination IP:Port - 65.55.5.232:80
+
+TCP Stream Index: 8
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.079031 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55958
+  Destination IP:Port - 65.55.239.163:80
+
+TCP Stream Index: 9
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.017530 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55959
+  Destination IP:Port - 65.55.5.231:80
+
+TCP Stream Index: 10
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.009709 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55960
+  Destination IP:Port - 206.108.207.139:80
+
+TCP Stream Index: 11
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013908 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55961
+  Destination IP:Port - 184.24.133.32:80
+
+TCP Stream Index: 12
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.017887 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55962
+  Destination IP:Port - 65.55.5.232:80
+
+TCP Stream Index: 13
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012483 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55963
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 14
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.071233 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55966
+  Destination IP:Port - 63.215.202.48:80
+
+TCP Stream Index: 15
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.068268 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55967
+  Destination IP:Port - 63.215.202.49:80
+
+TCP Stream Index: 16
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.019165 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55968
+  Destination IP:Port - 72.14.213.101:80
+
+TCP Stream Index: 17
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.017951 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55971
+  Destination IP:Port - 65.55.17.37:80
+
+TCP Stream Index: 18
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 19
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013258 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55972
+  Destination IP:Port - 207.46.216.54:80
+
+TCP Stream Index: 20
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013697 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:55973
+  Destination IP:Port - 65.54.95.142:80
+
+TCP Stream Index: 21
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050609 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58264
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 22
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049833 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58265
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 23
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 24
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050009 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58272
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 25
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 27
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.020403 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52201
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 28
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.021020 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52202
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 29
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.020864 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52203
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 30
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.022400 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52204
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 31
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.021525 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52205
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 32
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.021325 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52206
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 33
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.018957 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52207
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 34
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.021231 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52208
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 35
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.020034 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52209
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 36
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.023275 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52210
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 37
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.023056 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52211
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 38
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.022164 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52212
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 39
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.021896 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52213
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 40
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.022462 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52214
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 41
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.025559 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52215
+  Destination IP:Port - 72.14.213.102:443
+
+TCP Stream Index: 42
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050503 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58303
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 43
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.051300 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58304
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 44
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049434 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58305
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 45
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012025 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56012
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 46
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050210 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58310
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 47
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.031747 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56021
+  Destination IP:Port - 66.235.139.121:80
+
+TCP Stream Index: 48
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.078655 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56022
+  Destination IP:Port - 65.55.206.199:80
+
+TCP Stream Index: 49
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013065 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56023
+  Destination IP:Port - 184.24.143.139:80
+
+TCP Stream Index: 50
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.036773 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56026
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 51
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.037495 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56027
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 52
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014695 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56028
+  Destination IP:Port - 65.54.95.142:80
+
+TCP Stream Index: 53
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014555 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56029
+  Destination IP:Port - 65.54.95.142:80
+
+TCP Stream Index: 54
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014299 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56030
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 55
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014901 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56031
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 56
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014756 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56032
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 57
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014617 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56033
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 58
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.078942 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56034
+  Destination IP:Port - 65.55.206.199:80
+
+TCP Stream Index: 59
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.087410 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56035
+  Destination IP:Port - 65.55.118.107:80
+
+TCP Stream Index: 60
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.015073 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56036
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 61
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.015747 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56037
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 62
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.016401 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56038
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 63
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.017093 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56039
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 64
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.016958 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56040
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 65
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.018911 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56041
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 66
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.017822 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56042
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 67
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013181 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56044
+  Destination IP:Port - 65.54.95.216:80
+
+TCP Stream Index: 68
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.030883 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56048
+  Destination IP:Port - 66.220.149.32:80
+
+TCP Stream Index: 69
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.008971 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56049
+  Destination IP:Port - 206.108.207.163:80
+
+TCP Stream Index: 70
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.030178 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56050
+  Destination IP:Port - 66.235.139.121:80
+
+TCP Stream Index: 71
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.061492 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56051
+  Destination IP:Port - 207.46.0.109:80
+
+TCP Stream Index: 72
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012504 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56052
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 73
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.031316 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56053
+  Destination IP:Port - 66.235.133.62:80
+
+TCP Stream Index: 74
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.009981 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56054
+  Destination IP:Port - 206.108.207.145:80
+
+TCP Stream Index: 75
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012525 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56055
+  Destination IP:Port - 65.54.95.39:80
+
+TCP Stream Index: 76
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014013 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56056
+  Destination IP:Port - 65.54.95.39:80
+
+TCP Stream Index: 77
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012217 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56057
+  Destination IP:Port - 65.54.95.66:80
+
+TCP Stream Index: 78
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.008392 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56058
+  Destination IP:Port - 206.108.207.138:80
+
+TCP Stream Index: 79
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012127 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56059
+  Destination IP:Port - 65.54.95.39:80
+
+TCP Stream Index: 80
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013327 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56060
+  Destination IP:Port - 65.54.95.39:80
+
+TCP Stream Index: 81
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.186043 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56061
+  Destination IP:Port - 195.27.155.11:80
+
+TCP Stream Index: 82
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014480 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56064
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 83
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012530 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56065
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 84
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.041787 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56066
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 85
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012187 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56067
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 86
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.016114 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56068
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 87
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.015819 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56069
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 88
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012400 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56070
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 89
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012551 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56073
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 90
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050316 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58327
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 91
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012550 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52248
+  Destination IP:Port - 65.54.95.39:80
+
+TCP Stream Index: 92
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013123 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56090
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 93
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013353 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56091
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 94
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013852 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56092
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 95
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013168 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56093
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 96
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012246 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52257
+  Destination IP:Port - 65.54.95.39:80
+
+TCP Stream Index: 97
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049700 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58350
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 98
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049331 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58351
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 99
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050037 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58352
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 100
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050786 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58353
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 101
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012145 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52266
+  Destination IP:Port - 65.54.95.39:80
+
+TCP Stream Index: 102
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050008 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58360
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 103
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050522 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58361
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 104
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.031663 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58362
+  Destination IP:Port - 208.82.238.129:80
+
+TCP Stream Index: 105
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012975 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56110
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 106
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013276 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56111
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 107
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014526 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56112
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 108
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014229 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56113
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 109
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049323 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58377
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 110
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049907 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58378
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 111
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.031099 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56126
+  Destination IP:Port - 66.235.139.121:80
+
+TCP Stream Index: 112
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.073615 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58381
+  Destination IP:Port - 204.9.163.166:80
+
+TCP Stream Index: 113
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013848 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56127
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 114
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.016985 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56128
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 115
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013323 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56129
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 116
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012125 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56132
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 117
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013643 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56133
+  Destination IP:Port - 65.54.95.216:80
+
+TCP Stream Index: 118
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.029494 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56134
+  Destination IP:Port - 66.235.133.62:80
+
+TCP Stream Index: 119
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014039 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56135
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 120
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.008476 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56136
+  Destination IP:Port - 206.108.207.163:80
+
+TCP Stream Index: 121
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012075 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56139
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 122
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012111 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56140
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 123
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012252 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56141
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 124
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049637 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58388
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 125
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050988 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58389
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 127
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012151 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56160
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 128
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.030616 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56161
+  Destination IP:Port - 66.235.139.121:80
+
+TCP Stream Index: 129
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013705 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56163
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 130
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012065 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56165
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 131
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013537 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56166
+  Destination IP:Port - 65.54.95.216:80
+
+TCP Stream Index: 132
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.044996 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56167
+  Destination IP:Port - 12.129.210.71:80
+
+TCP Stream Index: 133
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.019340 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56168
+  Destination IP:Port - 206.108.207.155:80
+
+TCP Stream Index: 134
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.024995 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56169
+  Destination IP:Port - 206.108.207.155:80
+
+TCP Stream Index: 135
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049631 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58410
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 136
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.074810 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58411
+  Destination IP:Port - 204.9.163.166:80
+
+TCP Stream Index: 137
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012271 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56174
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 138
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012659 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56175
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 139
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049640 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58416
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 140
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050077 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58417
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 141
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013041 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56194
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 142
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049712 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58434
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 144
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049367 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58439
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 145
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049578 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58440
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 146
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.075832 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58443
+  Destination IP:Port - 204.9.163.166:80
+
+TCP Stream Index: 149
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012605 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56213
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 150
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013322 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56214
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 151
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.074912 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10616
+  Destination IP:Port - 204.9.163.158:80
+
+TCP Stream Index: 153
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050770 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58464
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 154
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.084388 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10617
+  Destination IP:Port - 204.9.163.158:80
+
+TCP Stream Index: 155
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.075639 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10618
+  Destination IP:Port - 204.9.163.158:80
+
+TCP Stream Index: 156
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.074682 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10619
+  Destination IP:Port - 204.9.163.158:80
+
+TCP Stream Index: 157
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012387 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56233
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 158
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012827 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56234
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 159
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014142 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56235
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 160
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013797 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56236
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 162
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.076840 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10620
+  Destination IP:Port - 204.9.163.158:80
+
+TCP Stream Index: 163
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10621
+  Destination IP:Port - 147.31.122.1:18165
+
+TCP Stream Index: 164
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.101152 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10622
+  Destination IP:Port - 147.31.122.1:443
+
+TCP Stream Index: 165
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049476 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58485
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 166
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049898 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58486
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 167
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049263 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58487
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 168
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049441 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58490
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 169
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10623
+  Destination IP:Port - 194.165.188.79:33033
+
+TCP Stream Index: 170
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10624
+  Destination IP:Port - 213.166.51.4:33033
+
+TCP Stream Index: 171
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012226 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56255
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 172
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013270 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56256
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 173
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013847 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56257
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 174
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10625
+  Destination IP:Port - 194.165.188.79:33033
+
+TCP Stream Index: 175
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10626
+  Destination IP:Port - 213.166.51.4:33033
+
+TCP Stream Index: 176
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.172914 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10627
+  Destination IP:Port - 194.165.188.79:443
+
+TCP Stream Index: 177
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10628
+  Destination IP:Port - 194.165.188.76:12350
+
+TCP Stream Index: 178
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10629
+  Destination IP:Port - 212.8.166.36:12350
+
+TCP Stream Index: 179
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.073663 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10630
+  Destination IP:Port - 204.9.163.158:80
+
+TCP Stream Index: 180
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 181
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10631
+  Destination IP:Port - 204.9.163.184:12350
+
+TCP Stream Index: 182
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10632
+  Destination IP:Port - 194.165.188.76:12350
+
+TCP Stream Index: 183
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10633
+  Destination IP:Port - 212.8.166.36:12350
+
+TCP Stream Index: 184
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10634
+  Destination IP:Port - 204.9.163.184:12350
+
+TCP Stream Index: 203
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.171350 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10635
+  Destination IP:Port - 194.165.188.76:443
+
+TCP Stream Index: 204
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.259935 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10636
+  Destination IP:Port - 212.8.166.36:443
+
+TCP Stream Index: 209
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.074052 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10637
+  Destination IP:Port - 204.9.163.184:443
+
+TCP Stream Index: 210
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.019613 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52399
+  Destination IP:Port - 72.14.213.132:443
+
+TCP Stream Index: 211
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.018805 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52402
+  Destination IP:Port - 72.14.213.132:443
+
+TCP Stream Index: 212
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.176076 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10638
+  Destination IP:Port - 130.117.72.100:443
+
+TCP Stream Index: 213
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.075201 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10639
+  Destination IP:Port - 204.9.163.181:443
+
+TCP Stream Index: 214
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.078431 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10640
+  Destination IP:Port - 204.9.163.181:443
+
+TCP Stream Index: 215
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.072505 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10641
+  Destination IP:Port - 204.9.163.181:443
+
+TCP Stream Index: 216
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.072248 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10642
+  Destination IP:Port - 204.9.163.181:443
+
+TCP Stream Index: 217
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.072523 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10643
+  Destination IP:Port - 204.9.163.181:443
+
+TCP Stream Index: 218
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.055582 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2526
+  Destination IP:Port - 65.54.186.19:443
+
+TCP Stream Index: 219
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.181417 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2527
+  Destination IP:Port - 64.4.9.254:1863
+
+TCP Stream Index: 221
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.177746 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2528
+  Destination IP:Port - 65.54.189.173:1863
+
+TCP Stream Index: 222
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050864 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58517
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 224
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.033405 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10646
+  Destination IP:Port - 184.85.226.161:443
+
+TCP Stream Index: 225
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.032584 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10647
+  Destination IP:Port - 184.85.226.161:443
+
+TCP Stream Index: 226
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.102875 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10648
+  Destination IP:Port - 66.235.143.184:443
+
+TCP Stream Index: 227
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.032981 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10649
+  Destination IP:Port - 184.85.226.161:443
+
+TCP Stream Index: 228
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.034469 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10650
+  Destination IP:Port - 184.85.226.161:443
+
+TCP Stream Index: 229
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.032961 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10651
+  Destination IP:Port - 184.85.226.161:443
+
+TCP Stream Index: 230
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.032913 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10652
+  Destination IP:Port - 184.85.226.161:443
+
+TCP Stream Index: 231
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.105140 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10653
+  Destination IP:Port - 128.241.90.211:80
+
+TCP Stream Index: 232
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.105563 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10654
+  Destination IP:Port - 128.241.90.211:80
+
+TCP Stream Index: 233
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.105620 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10655
+  Destination IP:Port - 128.241.90.211:80
+
+TCP Stream Index: 234
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.069394 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2529
+  Destination IP:Port - 207.46.96.145:80
+
+TCP Stream Index: 235
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.040052 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2536
+  Destination IP:Port - 65.55.15.244:80
+
+TCP Stream Index: 236
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.040014 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2537
+  Destination IP:Port - 65.55.15.244:80
+
+TCP Stream Index: 238
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.025069 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2539
+  Destination IP:Port - 198.104.200.146:80
+
+TCP Stream Index: 241
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.051132 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2540
+  Destination IP:Port - 207.46.105.186:80
+
+TCP Stream Index: 242
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.200805 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10658
+  Destination IP:Port - 109.173.29.34:443
+
+TCP Stream Index: 243
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.376165 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10659
+  Destination IP:Port - 109.255.178.86:443
+
+TCP Stream Index: 244
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.113218 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10661
+  Destination IP:Port - 67.215.65.132:443
+
+TCP Stream Index: 245
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.113363 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10665
+  Destination IP:Port - 67.215.65.132:443
+
+TCP Stream Index: 246
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.112298 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10664
+  Destination IP:Port - 67.215.65.132:443
+
+TCP Stream Index: 247
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.268383 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10667
+  Destination IP:Port - 194.192.199.252:443
+
+TCP Stream Index: 248
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.116876 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10668
+  Destination IP:Port - 204.194.237.136:80
+
+TCP Stream Index: 249
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.114606 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10669
+  Destination IP:Port - 204.194.237.136:80
+
+TCP Stream Index: 250
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.115174 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10670
+  Destination IP:Port - 204.194.237.136:80
+
+TCP Stream Index: 251
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.236466 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10671
+  Destination IP:Port - 109.227.83.224:443
+
+TCP Stream Index: 252
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.058036 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2542
+  Destination IP:Port - 207.46.113.78:443
+
+TCP Stream Index: 253
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012170 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56292
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 254
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10672
+  Destination IP:Port - 212.8.163.80:54900
+
+TCP Stream Index: 255
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10673
+  Destination IP:Port - 212.8.163.80:54900
+
+TCP Stream Index: 256
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.092423 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2543
+  Destination IP:Port - 65.55.116.184:80
+
+TCP Stream Index: 257
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.055460 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2544
+  Destination IP:Port - 207.46.113.78:443
+
+TCP Stream Index: 258
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.184212 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2545
+  Destination IP:Port - 91.103.140.2:80
+
+TCP Stream Index: 259
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10674
+  Destination IP:Port - 212.8.163.80:43400
+
+TCP Stream Index: 260
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10675
+  Destination IP:Port - 212.8.163.80:43400
+
+TCP Stream Index: 261
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.194744 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2546
+  Destination IP:Port - 91.103.140.2:80
+
+TCP Stream Index: 262
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10676
+  Destination IP:Port - 204.9.163.160:35777
+
+TCP Stream Index: 263
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10677
+  Destination IP:Port - 204.9.163.160:35777
+
+TCP Stream Index: 264
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.036999 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2547
+  Destination IP:Port - 96.17.8.49:80
+
+TCP Stream Index: 265
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10678
+  Destination IP:Port - 212.8.163.80:54900
+
+TCP Stream Index: 266
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10679
+  Destination IP:Port - 212.8.163.80:54900
+
+TCP Stream Index: 268
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.063538 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2548
+  Destination IP:Port - 65.54.167.27:80
+
+TCP Stream Index: 269
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049785 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58542
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 270
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050083 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58543
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 271
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049313 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58544
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 272
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.073450 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58547
+  Destination IP:Port - 204.9.163.166:80
+
+TCP Stream Index: 273
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.249111 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10682
+  Destination IP:Port - 109.227.83.224:443
+
+TCP Stream Index: 274
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.196552 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10683
+  Destination IP:Port - 109.173.29.34:443
+
+TCP Stream Index: 275
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.249765 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10684
+  Destination IP:Port - 109.229.25.126:443
+
+TCP Stream Index: 276
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10685
+  Destination IP:Port - 204.9.163.160:35777
+
+TCP Stream Index: 277
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10686
+  Destination IP:Port - 204.9.163.160:35777
+
+TCP Stream Index: 278
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.121907 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2549
+  Destination IP:Port - 65.55.116.184:80
+
+TCP Stream Index: 279
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.264652 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10687
+  Destination IP:Port - 109.90.123.126:443
+
+TCP Stream Index: 280
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012164 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56313
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 281
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014110 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56314
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 282
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.035855 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56317
+  Destination IP:Port - 66.235.139.121:80
+
+TCP Stream Index: 283
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012328 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56318
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 284
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.163881 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10688
+  Destination IP:Port - 213.146.189.205:443
+
+TCP Stream Index: 285
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013415 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56319
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 286
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.060423 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56320
+  Destination IP:Port - 207.46.0.109:80
+
+TCP Stream Index: 287
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.031076 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56323
+  Destination IP:Port - 66.235.133.62:80
+
+TCP Stream Index: 288
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.084436 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56324
+  Destination IP:Port - 65.55.118.107:80
+
+TCP Stream Index: 289
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012801 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56325
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 290
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012201 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56326
+  Destination IP:Port - 65.54.95.39:80
+
+TCP Stream Index: 291
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.069569 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56327
+  Destination IP:Port - 76.74.140.168:80
+
+TCP Stream Index: 292
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.068682 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56328
+  Destination IP:Port - 76.74.140.168:80
+
+TCP Stream Index: 293
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.237412 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10689
+  Destination IP:Port - 109.227.83.224:443
+
+TCP Stream Index: 294
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.200325 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10690
+  Destination IP:Port - 109.173.29.34:443
+
+TCP Stream Index: 295
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.015622 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56331
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 296
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.032094 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56332
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 297
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.172955 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2550
+  Destination IP:Port - 64.4.35.57:1863
+
+TCP Stream Index: 298
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012041 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56351
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 299
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.121359 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2551
+  Destination IP:Port - 70.37.129.34:80
+
+TCP Stream Index: 300
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.030944 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56356
+  Destination IP:Port - 66.235.139.121:80
+
+TCP Stream Index: 301
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013437 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56357
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 302
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012976 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56358
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 303
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012358 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56359
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 304
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013063 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56360
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 305
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.033395 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56361
+  Destination IP:Port - 66.235.133.62:80
+
+TCP Stream Index: 306
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013421 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56362
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 307
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012891 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56363
+  Destination IP:Port - 65.54.95.39:80
+
+TCP Stream Index: 308
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012234 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56368
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 309
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013224 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56369
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 310
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.032667 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10691
+  Destination IP:Port - 184.85.226.161:443
+
+TCP Stream Index: 311
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.091152 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2552
+  Destination IP:Port - 70.37.129.32:80
+
+TCP Stream Index: 312
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012497 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56386
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 313
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049948 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58608
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 314
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050845 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58609
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 315
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.021484 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:52497
+  Destination IP:Port - 72.14.213.120:443
+
+TCP Stream Index: 316
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.035745 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56401
+  Destination IP:Port - 66.235.139.121:80
+
+TCP Stream Index: 317
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012836 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56406
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 318
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012799 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56407
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 319
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014040 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56408
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 320
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.078762 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56411
+  Destination IP:Port - 65.55.206.199:80
+
+TCP Stream Index: 321
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013346 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56414
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 322
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012686 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56415
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 323
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012298 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56416
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 324
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013113 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56417
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 325
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.016696 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56418
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 326
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.017335 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56419
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 327
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.032556 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56420
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 328
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.020039 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56421
+  Destination IP:Port - 72.14.213.149:80
+
+TCP Stream Index: 329
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.011976 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56422
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 330
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014924 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56423
+  Destination IP:Port - 65.54.95.149:80
+
+TCP Stream Index: 331
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.025019 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56424
+  Destination IP:Port - 72.14.213.148:80
+
+TCP Stream Index: 332
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012072 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56427
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 333
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012474 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56428
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 334
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012038 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56429
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 335
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013483 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56430
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 336
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012035 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56433
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 337
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012160 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56434
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 338
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.011974 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56435
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 339
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012007 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56436
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 340
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.115183 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2553
+  Destination IP:Port - 70.37.129.34:80
+
+TCP Stream Index: 341
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013017 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56438
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 342
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.079376 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2554
+  Destination IP:Port - 70.37.129.34:80
+
+TCP Stream Index: 343
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012946 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56454
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 344
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014247 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56455
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 345
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013961 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56456
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 346
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012274 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56457
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 348
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049457 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58666
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 349
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049645 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58667
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 350
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049529 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58668
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 351
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013342 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56476
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 352
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013165 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56477
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 353
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013758 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56478
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 354
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013597 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56479
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 355
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10692
+  Destination IP:Port - 10.1.1.2:50023
+
+TCP Stream Index: 356
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10693
+  Destination IP:Port - 10.1.1.2:50023
+
+TCP Stream Index: 357
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10694
+  Destination IP:Port - 10.1.1.2:50023
+
+TCP Stream Index: 358
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10695
+  Destination IP:Port - 10.1.1.2:50023
+
+TCP Stream Index: 359
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.233775 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10696
+  Destination IP:Port - 109.227.83.224:443
+
+TCP Stream Index: 360
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.201992 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10697
+  Destination IP:Port - 109.173.29.34:443
+
+TCP Stream Index: 361
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.030520 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56494
+  Destination IP:Port - 66.235.139.121:80
+
+TCP Stream Index: 362
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012927 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56495
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 363
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012230 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56497
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 364
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.069093 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56499
+  Destination IP:Port - 76.74.140.168:80
+
+TCP Stream Index: 365
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012712 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56500
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 366
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012946 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56501
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 367
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013103 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56502
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 368
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013943 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56503
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 369
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012476 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56504
+  Destination IP:Port - 65.54.95.140:80
+
+TCP Stream Index: 370
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014577 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56505
+  Destination IP:Port - 65.54.95.66:80
+
+TCP Stream Index: 371
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.013334 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56506
+  Destination IP:Port - 207.46.148.38:80
+
+TCP Stream Index: 372
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012189 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56509
+  Destination IP:Port - 65.54.95.75:80
+
+TCP Stream Index: 373
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.014285 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56510
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 374
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.012039 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:56511
+  Destination IP:Port - 65.54.95.68:80
+
+TCP Stream Index: 376
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 386
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 387
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.037522 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57243
+  Destination IP:Port - 204.14.234.85:443
+
+TCP Stream Index: 388
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 389
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.037522 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57243
+  Destination IP:Port - 204.14.234.85:8443
+
+TCP Stream Index: 390
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.038750 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57244
+  Destination IP:Port - 204.14.234.85:443
+
+TCP Stream Index: 391
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049426 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58737
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 392
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.038750 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57244
+  Destination IP:Port - 204.14.234.85:8443
+
+TCP Stream Index: 396
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 399
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 401
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.055582 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2526
+  Destination IP:Port - 65.54.186.19:5443
+
+TCP Stream Index: 402
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.181417 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2527
+  Destination IP:Port - 64.4.9.254:61863
+
+TCP Stream Index: 403
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.177746 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2528
+  Destination IP:Port - 65.54.189.173:61863
+
+TCP Stream Index: 404
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049571 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58750
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 405
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.069394 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2529
+  Destination IP:Port - 207.46.96.145:5480
+
+TCP Stream Index: 406
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.040052 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2536
+  Destination IP:Port - 65.55.15.244:5480
+
+TCP Stream Index: 407
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.040014 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2537
+  Destination IP:Port - 65.55.15.244:5480
+
+TCP Stream Index: 408
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.025069 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2539
+  Destination IP:Port - 198.104.200.146:5480
+
+TCP Stream Index: 409
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.051132 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2540
+  Destination IP:Port - 207.46.105.186:5480
+
+TCP Stream Index: 410
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049596 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58757
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 411
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.058036 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2542
+  Destination IP:Port - 207.46.113.78:5443
+
+TCP Stream Index: 412
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.092423 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2543
+  Destination IP:Port - 65.55.116.184:5480
+
+TCP Stream Index: 413
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.055460 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2544
+  Destination IP:Port - 207.46.113.78:5443
+
+TCP Stream Index: 414
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.184212 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2545
+  Destination IP:Port - 91.103.140.2:5480
+
+TCP Stream Index: 415
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049527 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58766
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 416
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.019493 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58769
+  Destination IP:Port - 72.14.213.138:80
+
+TCP Stream Index: 417
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.194744 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2546
+  Destination IP:Port - 91.103.140.2:5480
+
+TCP Stream Index: 418
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.018751 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58770
+  Destination IP:Port - 72.14.213.138:80
+
+TCP Stream Index: 419
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.036999 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2547
+  Destination IP:Port - 96.17.8.49:5480
+
+TCP Stream Index: 420
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.063538 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2548
+  Destination IP:Port - 65.54.167.27:5480
+
+TCP Stream Index: 421
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050092 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58777
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 438
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 439
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 440
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.121907 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2549
+  Destination IP:Port - 65.55.116.184:5480
+
+TCP Stream Index: 441
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049959 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58786
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 442
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.050339 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58787
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 443
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049745 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58788
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 444
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.042781 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58789
+  Destination IP:Port - 209.17.73.30:80
+
+TCP Stream Index: 445
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.043432 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58790
+  Destination IP:Port - 209.17.73.30:80
+
+TCP Stream Index: 446
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049531 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58793
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 447
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049997 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58794
+  Destination IP:Port - 208.82.236.130:80
+
+TCP Stream Index: 448
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.072564 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58795
+  Destination IP:Port - 204.9.163.166:80
+
+TCP Stream Index: 449
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.172955 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2550
+  Destination IP:Port - 64.4.35.57:61863
+
+TCP Stream Index: 450
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.041363 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57245
+  Destination IP:Port - 204.14.234.85:443
+
+TCP Stream Index: 451
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.041120 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57246
+  Destination IP:Port - 204.14.234.85:443
+
+TCP Stream Index: 452
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.041363 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57245
+  Destination IP:Port - 204.14.234.85:8443
+
+TCP Stream Index: 453
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.041120 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57246
+  Destination IP:Port - 204.14.234.85:8443
+
+TCP Stream Index: 462
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.121359 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2551
+  Destination IP:Port - 70.37.129.34:5480
+
+TCP Stream Index: 463
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.046325 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57247
+  Destination IP:Port - 204.14.234.85:443
+
+TCP Stream Index: 464
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.042789 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57248
+  Destination IP:Port - 204.14.234.85:443
+
+TCP Stream Index: 465
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.046325 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57247
+  Destination IP:Port - 204.14.234.85:8443
+
+TCP Stream Index: 466
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.042789 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57248
+  Destination IP:Port - 204.14.234.85:8443
+
+TCP Stream Index: 467
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049274 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58830
+  Destination IP:Port - 208.82.236.129:80
+
+TCP Stream Index: 468
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.071581 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:58831
+  Destination IP:Port - 204.9.163.166:80
+
+TCP Stream Index: 469
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10704
+  Destination IP:Port - 67.215.65.132:445
+
+TCP Stream Index: 470
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: No
+  ACK seen: No
+Successful Handshake: No
+  Reason: Missing SYN-ACK in 3-way handshake
+  Estimated iRTT: Not available
+Flow Information:
+  Source IP:Port - 172.16.255.1:10705
+  Destination IP:Port - 67.215.65.132:445
+
+TCP Stream Index: 471
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.091152 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2552
+  Destination IP:Port - 70.37.129.32:5480
+
+TCP Stream Index: 474
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.115183 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2553
+  Destination IP:Port - 70.37.129.34:5480
+
+TCP Stream Index: 475
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.079376 seconds
+Flow Information:
+  Source IP:Port - 10.0.2.15:2554
+  Destination IP:Port - 70.37.129.34:5480
+
+TCP Stream Index: 476
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.076006 seconds
+Flow Information:
+  Source IP:Port - 172.16.255.1:10714
+  Destination IP:Port - 204.9.163.158:80
+
+TCP Stream Index: 477
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049392 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57249
+  Destination IP:Port - 204.14.234.85:443
+
+TCP Stream Index: 478
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.049392 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57249
+  Destination IP:Port - 204.14.234.85:8443
+
+TCP Stream Index: 479
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 480
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.030990 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57250
+  Destination IP:Port - 66.235.136.89:443
+
+TCP Stream Index: 481
+Handshake State:
+  SYN seen: No
+  SYN-ACK seen: No
+  ACK seen: No
+  Note: Data flow captured without SYN and SYN-ACK. Handshake might have occurred before capture started.
+
+TCP Stream Index: 482
+Handshake State:
+  SYN seen: Yes
+  SYN-ACK seen: Yes
+  ACK seen: Yes
+Successful Handshake: Yes
+  Estimated iRTT: 0.030990 seconds
+Flow Information:
+  Source IP:Port - 192.168.3.131:57250
+  Destination IP:Port - 66.235.136.89:8443

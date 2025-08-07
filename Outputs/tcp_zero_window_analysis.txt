@@ -1,0 +1,14 @@
+TCP Zero Window Analysis Summary:
+Total number of TCP flows: 1
+Number of TCP flows with Zero Window events: 1
+
+Detailed Zero Window event information:
+
+TCP Stream Index: 0
+  Flow: 10.0.2.15:58322 -> 157.240.11.22:443
+  Number of Zero Window events: 1
+  Event 1:
+    Zero window event reported by: 10.0.2.15
+    Zero window event start time: 2022-02-07 23:50:28.841078 UTC
+    Zero window event end time: 2022-02-07 23:50:29.649103 UTC
+    Zero window event duration: 0.808025 seconds

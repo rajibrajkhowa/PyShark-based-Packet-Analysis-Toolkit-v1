@@ -1,0 +1,770 @@
+TCP Retransmission Analysis Summary:
+Total number of TCP flows: 485
+Number of TCP flows with non-zero metrics: 126
+
+Detailed TCP flow information:
+
+TCP Flow (Stream Index): 1
+  IPs involved: {'72.14.213.102', '192.168.3.131'} <-> {'72.14.213.102', '192.168.3.131'}
+  Ports involved: {'55950', '80'} <-> {'55950', '80'}
+  Total packets: 9
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 4
+  IPs involved: {'65.55.17.37', '192.168.3.131'} <-> {'65.55.17.37', '192.168.3.131'}
+  Ports involved: {'55954', '80'} <-> {'55954', '80'}
+  Total packets: 32
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 6
+  IPs involved: {'66.235.139.121', '192.168.3.131'} <-> {'66.235.139.121', '192.168.3.131'}
+  Ports involved: {'55956', '80'} <-> {'55956', '80'}
+  Total packets: 13
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 10
+  IPs involved: {'206.108.207.139', '192.168.3.131'} <-> {'206.108.207.139', '192.168.3.131'}
+  Ports involved: {'80', '55960'} <-> {'80', '55960'}
+  Total packets: 31
+  TCP Retransmissions: 14
+
+TCP Flow (Stream Index): 16
+  IPs involved: {'72.14.213.101', '192.168.3.131'} <-> {'72.14.213.101', '192.168.3.131'}
+  Ports involved: {'80', '55968'} <-> {'80', '55968'}
+  Total packets: 25
+  TCP Retransmissions: 7
+
+TCP Flow (Stream Index): 25
+  IPs involved: {'72.14.213.18', '192.168.3.131'} <-> {'72.14.213.18', '192.168.3.131'}
+  Ports involved: {'443', '49673'} <-> {'443', '49673'}
+  Total packets: 132
+  TCP Retransmissions: 41
+
+TCP Flow (Stream Index): 34
+  IPs involved: {'72.14.213.102', '192.168.3.131'} <-> {'72.14.213.102', '192.168.3.131'}
+  Ports involved: {'52208', '443'} <-> {'52208', '443'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 35
+  IPs involved: {'72.14.213.102', '192.168.3.131'} <-> {'72.14.213.102', '192.168.3.131'}
+  Ports involved: {'443', '52209'} <-> {'443', '52209'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 36
+  IPs involved: {'72.14.213.102', '192.168.3.131'} <-> {'72.14.213.102', '192.168.3.131'}
+  Ports involved: {'52210', '443'} <-> {'52210', '443'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 37
+  IPs involved: {'72.14.213.102', '192.168.3.131'} <-> {'72.14.213.102', '192.168.3.131'}
+  Ports involved: {'443', '52211'} <-> {'52211', '443'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 38
+  IPs involved: {'72.14.213.102', '192.168.3.131'} <-> {'72.14.213.102', '192.168.3.131'}
+  Ports involved: {'443', '52212'} <-> {'443', '52212'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 39
+  IPs involved: {'72.14.213.102', '192.168.3.131'} <-> {'72.14.213.102', '192.168.3.131'}
+  Ports involved: {'443', '52213'} <-> {'443', '52213'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 40
+  IPs involved: {'72.14.213.102', '192.168.3.131'} <-> {'72.14.213.102', '192.168.3.131'}
+  Ports involved: {'52214', '443'} <-> {'52214', '443'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 41
+  IPs involved: {'72.14.213.102', '192.168.3.131'} <-> {'72.14.213.102', '192.168.3.131'}
+  Ports involved: {'52215', '443'} <-> {'52215', '443'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 47
+  IPs involved: {'66.235.139.121', '192.168.3.131'} <-> {'66.235.139.121', '192.168.3.131'}
+  Ports involved: {'56021', '80'} <-> {'56021', '80'}
+  Total packets: 15
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 59
+  IPs involved: {'65.55.118.107', '192.168.3.131'} <-> {'65.55.118.107', '192.168.3.131'}
+  Ports involved: {'80', '56035'} <-> {'80', '56035'}
+  Total packets: 14
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 68
+  IPs involved: {'66.220.149.32', '192.168.3.131'} <-> {'66.220.149.32', '192.168.3.131'}
+  Ports involved: {'80', '56048'} <-> {'80', '56048'}
+  Total packets: 66
+  TCP Retransmissions: 6
+
+TCP Flow (Stream Index): 70
+  IPs involved: {'66.235.139.121', '192.168.3.131'} <-> {'66.235.139.121', '192.168.3.131'}
+  Ports involved: {'56050', '80'} <-> {'56050', '80'}
+  Total packets: 4
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 71
+  IPs involved: {'207.46.0.109', '192.168.3.131'} <-> {'192.168.3.131', '207.46.0.109'}
+  Ports involved: {'80', '56051'} <-> {'80', '56051'}
+  Total packets: 46
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 73
+  IPs involved: {'66.235.133.62', '192.168.3.131'} <-> {'66.235.133.62', '192.168.3.131'}
+  Ports involved: {'80', '56053'} <-> {'56053', '80'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 90
+  IPs involved: {'208.82.236.129', '192.168.3.131'} <-> {'192.168.3.131', '208.82.236.129'}
+  Ports involved: {'58327', '80'} <-> {'58327', '80'}
+  Total packets: 15
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 111
+  IPs involved: {'66.235.139.121', '192.168.3.131'} <-> {'66.235.139.121', '192.168.3.131'}
+  Ports involved: {'80', '56126'} <-> {'80', '56126'}
+  Total packets: 17
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 118
+  IPs involved: {'66.235.133.62', '192.168.3.131'} <-> {'66.235.133.62', '192.168.3.131'}
+  Ports involved: {'56134', '80'} <-> {'56134', '80'}
+  Total packets: 10
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 120
+  IPs involved: {'206.108.207.163', '192.168.3.131'} <-> {'206.108.207.163', '192.168.3.131'}
+  Ports involved: {'56136', '80'} <-> {'56136', '80'}
+  Total packets: 9
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 128
+  IPs involved: {'66.235.139.121', '192.168.3.131'} <-> {'66.235.139.121', '192.168.3.131'}
+  Ports involved: {'56161', '80'} <-> {'56161', '80'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 133
+  IPs involved: {'206.108.207.155', '192.168.3.131'} <-> {'206.108.207.155', '192.168.3.131'}
+  Ports involved: {'56168', '80'} <-> {'56168', '80'}
+  Total packets: 55
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 134
+  IPs involved: {'206.108.207.155', '192.168.3.131'} <-> {'206.108.207.155', '192.168.3.131'}
+  Ports involved: {'56169', '80'} <-> {'56169', '80'}
+  Total packets: 9
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 146
+  IPs involved: {'204.9.163.166', '192.168.3.131'} <-> {'204.9.163.166', '192.168.3.131'}
+  Ports involved: {'58443', '80'} <-> {'58443', '80'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 152
+  IPs involved: {'10.0.2.15'} <-> {'65.55.25.60'}
+  Ports involved: {'2489'} <-> {'80'}
+  Total packets: 1
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 161
+  IPs involved: {'10.0.2.15', '65.55.25.60'} <-> {'10.0.2.15', '65.55.25.60'}
+  Ports involved: {'2498', '443'} <-> {'2498', '443'}
+  Total packets: 3
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 166
+  IPs involved: {'208.82.236.130', '192.168.3.131'} <-> {'208.82.236.130', '192.168.3.131'}
+  Ports involved: {'58486', '80'} <-> {'58486', '80'}
+  Total packets: 18
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 169
+  IPs involved: {'172.16.255.1'} <-> {'194.165.188.79'}
+  Ports involved: {'10623'} <-> {'33033'}
+  Total packets: 2
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 177
+  IPs involved: {'172.16.255.1'} <-> {'194.165.188.76'}
+  Ports involved: {'10628'} <-> {'12350'}
+  Total packets: 2
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 178
+  IPs involved: {'172.16.255.1'} <-> {'212.8.166.36'}
+  Ports involved: {'10629'} <-> {'12350'}
+  Total packets: 2
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 180
+  IPs involved: {'10.0.2.15', '192.168.3.90'} <-> {'10.0.2.15', '192.168.3.90'}
+  Ports involved: {'1095', '139'} <-> {'1095', '139'}
+  Total packets: 26
+  TCP Retransmissions: 7
+
+TCP Flow (Stream Index): 181
+  IPs involved: {'172.16.255.1'} <-> {'204.9.163.184'}
+  Ports involved: {'10631'} <-> {'12350'}
+  Total packets: 2
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 209
+  IPs involved: {'204.9.163.184', '172.16.255.1'} <-> {'204.9.163.184', '172.16.255.1'}
+  Ports involved: {'443', '10637'} <-> {'443', '10637'}
+  Total packets: 21
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 213
+  IPs involved: {'204.9.163.181', '172.16.255.1'} <-> {'204.9.163.181', '172.16.255.1'}
+  Ports involved: {'443', '10639'} <-> {'443', '10639'}
+  Total packets: 47
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 214
+  IPs involved: {'204.9.163.181', '172.16.255.1'} <-> {'204.9.163.181', '172.16.255.1'}
+  Ports involved: {'10640', '443'} <-> {'10640', '443'}
+  Total packets: 31
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 215
+  IPs involved: {'204.9.163.181', '172.16.255.1'} <-> {'204.9.163.181', '172.16.255.1'}
+  Ports involved: {'443', '10641'} <-> {'443', '10641'}
+  Total packets: 24
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 216
+  IPs involved: {'204.9.163.181', '172.16.255.1'} <-> {'204.9.163.181', '172.16.255.1'}
+  Ports involved: {'10642', '443'} <-> {'10642', '443'}
+  Total packets: 24
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 217
+  IPs involved: {'204.9.163.181', '172.16.255.1'} <-> {'204.9.163.181', '172.16.255.1'}
+  Ports involved: {'443', '10643'} <-> {'443', '10643'}
+  Total packets: 18
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 219
+  IPs involved: {'10.0.2.15', '64.4.9.254'} <-> {'10.0.2.15', '64.4.9.254'}
+  Ports involved: {'1863', '2527'} <-> {'1863', '2527'}
+  Total packets: 17
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 222
+  IPs involved: {'208.82.236.130', '192.168.3.131'} <-> {'208.82.236.130', '192.168.3.131'}
+  Ports involved: {'58517', '80'} <-> {'58517', '80'}
+  Total packets: 13
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 224
+  IPs involved: {'184.85.226.161', '172.16.255.1'} <-> {'184.85.226.161', '172.16.255.1'}
+  Ports involved: {'10646', '443'} <-> {'10646', '443'}
+  Total packets: 121
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 225
+  IPs involved: {'184.85.226.161', '172.16.255.1'} <-> {'184.85.226.161', '172.16.255.1'}
+  Ports involved: {'443', '10647'} <-> {'443', '10647'}
+  Total packets: 103
+  TCP Retransmissions: 1
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 226
+  IPs involved: {'66.235.143.184', '172.16.255.1'} <-> {'66.235.143.184', '172.16.255.1'}
+  Ports involved: {'10648', '443'} <-> {'10648', '443'}
+  Total packets: 24
+  Out-of-order packets: 1
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 227
+  IPs involved: {'184.85.226.161', '172.16.255.1'} <-> {'184.85.226.161', '172.16.255.1'}
+  Ports involved: {'10649', '443'} <-> {'10649', '443'}
+  Total packets: 32
+  TCP Retransmissions: 1
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 228
+  IPs involved: {'184.85.226.161', '172.16.255.1'} <-> {'184.85.226.161', '172.16.255.1'}
+  Ports involved: {'443', '10650'} <-> {'443', '10650'}
+  Total packets: 54
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 229
+  IPs involved: {'184.85.226.161', '172.16.255.1'} <-> {'184.85.226.161', '172.16.255.1'}
+  Ports involved: {'443', '10651'} <-> {'443', '10651'}
+  Total packets: 44
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 230
+  IPs involved: {'184.85.226.161', '172.16.255.1'} <-> {'184.85.226.161', '172.16.255.1'}
+  Ports involved: {'10652', '443'} <-> {'10652', '443'}
+  Total packets: 49
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 231
+  IPs involved: {'128.241.90.211', '172.16.255.1'} <-> {'128.241.90.211', '172.16.255.1'}
+  Ports involved: {'10653', '80'} <-> {'10653', '80'}
+  Total packets: 44
+  Out-of-order packets: 1
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 232
+  IPs involved: {'128.241.90.211', '172.16.255.1'} <-> {'128.241.90.211', '172.16.255.1'}
+  Ports involved: {'80', '10654'} <-> {'80', '10654'}
+  Total packets: 45
+  Out-of-order packets: 1
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 233
+  IPs involved: {'128.241.90.211', '172.16.255.1'} <-> {'128.241.90.211', '172.16.255.1'}
+  Ports involved: {'10655', '80'} <-> {'10655', '80'}
+  Total packets: 34
+  Out-of-order packets: 2
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 234
+  IPs involved: {'10.0.2.15', '207.46.96.145'} <-> {'10.0.2.15', '207.46.96.145'}
+  Ports involved: {'2529', '80'} <-> {'2529', '80'}
+  Total packets: 77
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 235
+  IPs involved: {'10.0.2.15', '65.55.15.244'} <-> {'65.55.15.244', '10.0.2.15'}
+  Ports involved: {'80', '2536'} <-> {'80', '2536'}
+  Total packets: 30
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 236
+  IPs involved: {'10.0.2.15', '65.55.15.244'} <-> {'65.55.15.244', '10.0.2.15'}
+  Ports involved: {'2537', '80'} <-> {'2537', '80'}
+  Total packets: 24
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 238
+  IPs involved: {'10.0.2.15', '198.104.200.146'} <-> {'10.0.2.15', '198.104.200.146'}
+  Ports involved: {'2539', '80'} <-> {'2539', '80'}
+  Total packets: 8
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 241
+  IPs involved: {'10.0.2.15', '207.46.105.186'} <-> {'10.0.2.15', '207.46.105.186'}
+  Ports involved: {'2540', '80'} <-> {'2540', '80'}
+  Total packets: 10
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 243
+  IPs involved: {'109.255.178.86', '172.16.255.1'} <-> {'109.255.178.86', '172.16.255.1'}
+  Ports involved: {'10659', '443'} <-> {'10659', '443'}
+  Total packets: 15
+  TCP Retransmissions: 4
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 244
+  IPs involved: {'67.215.65.132', '172.16.255.1'} <-> {'67.215.65.132', '172.16.255.1'}
+  Ports involved: {'10661', '443'} <-> {'10661', '443'}
+  Total packets: 13
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 245
+  IPs involved: {'67.215.65.132', '172.16.255.1'} <-> {'67.215.65.132', '172.16.255.1'}
+  Ports involved: {'443', '10665'} <-> {'443', '10665'}
+  Total packets: 13
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 247
+  IPs involved: {'194.192.199.252', '172.16.255.1'} <-> {'194.192.199.252', '172.16.255.1'}
+  Ports involved: {'10667', '443'} <-> {'10667', '443'}
+  Total packets: 58
+  TCP Retransmissions: 2
+
+TCP Flow (Stream Index): 248
+  IPs involved: {'204.194.237.136', '172.16.255.1'} <-> {'204.194.237.136', '172.16.255.1'}
+  Ports involved: {'10668', '80'} <-> {'10668', '80'}
+  Total packets: 13
+  Out-of-order packets: 1
+
+TCP Flow (Stream Index): 249
+  IPs involved: {'204.194.237.136', '172.16.255.1'} <-> {'204.194.237.136', '172.16.255.1'}
+  Ports involved: {'80', '10669'} <-> {'80', '10669'}
+  Total packets: 12
+  Out-of-order packets: 1
+
+TCP Flow (Stream Index): 252
+  IPs involved: {'10.0.2.15', '207.46.113.78'} <-> {'10.0.2.15', '207.46.113.78'}
+  Ports involved: {'2542', '443'} <-> {'2542', '443'}
+  Total packets: 25
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 254
+  IPs involved: {'172.16.255.1'} <-> {'212.8.163.80'}
+  Ports involved: {'10672'} <-> {'54900'}
+  Total packets: 2
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 255
+  IPs involved: {'172.16.255.1'} <-> {'212.8.163.80'}
+  Ports involved: {'10673'} <-> {'54900'}
+  Total packets: 2
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 257
+  IPs involved: {'10.0.2.15', '207.46.113.78'} <-> {'10.0.2.15', '207.46.113.78'}
+  Ports involved: {'443', '2544'} <-> {'443', '2544'}
+  Total packets: 29
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 259
+  IPs involved: {'172.16.255.1'} <-> {'212.8.163.80'}
+  Ports involved: {'10674'} <-> {'43400'}
+  Total packets: 2
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 260
+  IPs involved: {'172.16.255.1'} <-> {'212.8.163.80'}
+  Ports involved: {'10675'} <-> {'43400'}
+  Total packets: 2
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 261
+  IPs involved: {'10.0.2.15', '91.103.140.2'} <-> {'10.0.2.15', '91.103.140.2'}
+  Ports involved: {'2546', '80'} <-> {'2546', '80'}
+  Total packets: 8
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 262
+  IPs involved: {'172.16.255.1'} <-> {'204.9.163.160'}
+  Ports involved: {'10676'} <-> {'35777'}
+  Total packets: 2
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 263
+  IPs involved: {'172.16.255.1'} <-> {'204.9.163.160'}
+  Ports involved: {'10677'} <-> {'35777'}
+  Total packets: 2
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 264
+  IPs involved: {'10.0.2.15', '96.17.8.49'} <-> {'10.0.2.15', '96.17.8.49'}
+  Ports involved: {'2547', '80'} <-> {'2547', '80'}
+  Total packets: 21
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 268
+  IPs involved: {'10.0.2.15', '65.54.167.27'} <-> {'10.0.2.15', '65.54.167.27'}
+  Ports involved: {'80', '2548'} <-> {'80', '2548'}
+  Total packets: 82
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 270
+  IPs involved: {'208.82.236.130', '192.168.3.131'} <-> {'208.82.236.130', '192.168.3.131'}
+  Ports involved: {'58543', '80'} <-> {'58543', '80'}
+  Total packets: 19
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 272
+  IPs involved: {'204.9.163.166', '192.168.3.131'} <-> {'204.9.163.166', '192.168.3.131'}
+  Ports involved: {'80', '58547'} <-> {'80', '58547'}
+  Total packets: 16
+  TCP Retransmissions: 5
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 282
+  IPs involved: {'66.235.139.121', '192.168.3.131'} <-> {'66.235.139.121', '192.168.3.131'}
+  Ports involved: {'80', '56317'} <-> {'80', '56317'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 287
+  IPs involved: {'66.235.133.62', '192.168.3.131'} <-> {'66.235.133.62', '192.168.3.131'}
+  Ports involved: {'56323', '80'} <-> {'56323', '80'}
+  Total packets: 7
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 292
+  IPs involved: {'76.74.140.168', '192.168.3.131'} <-> {'76.74.140.168', '192.168.3.131'}
+  Ports involved: {'80', '56328'} <-> {'56328', '80'}
+  Total packets: 11
+  TCP Retransmissions: 3
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 299
+  IPs involved: {'10.0.2.15', '70.37.129.34'} <-> {'10.0.2.15', '70.37.129.34'}
+  Ports involved: {'80', '2551'} <-> {'80', '2551'}
+  Total packets: 20
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 300
+  IPs involved: {'66.235.139.121', '192.168.3.131'} <-> {'66.235.139.121', '192.168.3.131'}
+  Ports involved: {'56356', '80'} <-> {'56356', '80'}
+  Total packets: 11
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 305
+  IPs involved: {'66.235.133.62', '192.168.3.131'} <-> {'66.235.133.62', '192.168.3.131'}
+  Ports involved: {'56361', '80'} <-> {'56361', '80'}
+  Total packets: 7
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 310
+  IPs involved: {'184.85.226.161', '172.16.255.1'} <-> {'184.85.226.161', '172.16.255.1'}
+  Ports involved: {'443', '10691'} <-> {'443', '10691'}
+  Total packets: 14
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 311
+  IPs involved: {'10.0.2.15', '70.37.129.32'} <-> {'10.0.2.15', '70.37.129.32'}
+  Ports involved: {'80', '2552'} <-> {'80', '2552'}
+  Total packets: 22
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 314
+  IPs involved: {'208.82.236.130', '192.168.3.131'} <-> {'208.82.236.130', '192.168.3.131'}
+  Ports involved: {'58609', '80'} <-> {'58609', '80'}
+  Total packets: 21
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 316
+  IPs involved: {'66.235.139.121', '192.168.3.131'} <-> {'66.235.139.121', '192.168.3.131'}
+  Ports involved: {'80', '56401'} <-> {'56401', '80'}
+  Total packets: 10
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 340
+  IPs involved: {'10.0.2.15', '70.37.129.34'} <-> {'10.0.2.15', '70.37.129.34'}
+  Ports involved: {'80', '2553'} <-> {'80', '2553'}
+  Total packets: 20
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 342
+  IPs involved: {'10.0.2.15', '70.37.129.34'} <-> {'10.0.2.15', '70.37.129.34'}
+  Ports involved: {'80', '2554'} <-> {'80', '2554'}
+  Total packets: 19
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 355
+  IPs involved: {'172.16.255.1'} <-> {'10.1.1.2'}
+  Ports involved: {'10692'} <-> {'50023'}
+  Total packets: 2
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 356
+  IPs involved: {'172.16.255.1'} <-> {'10.1.1.2'}
+  Ports involved: {'10693'} <-> {'50023'}
+  Total packets: 2
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 375
+  IPs involved: {'10.0.2.15'} <-> {'65.55.25.60'}
+  Ports involved: {'2489'} <-> {'5480'}
+  Total packets: 1
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 376
+  IPs involved: {'192.168.3.90', '192.168.3.131'} <-> {'192.168.3.90', '192.168.3.131'}
+  Ports involved: {'445', '49166'} <-> {'445', '49166'}
+  Total packets: 16
+  TCP Retransmissions: 6
+
+TCP Flow (Stream Index): 377
+  IPs involved: {'10.0.2.15', '65.55.25.60'} <-> {'10.0.2.15', '65.55.25.60'}
+  Ports involved: {'2498', '5443'} <-> {'2498', '5443'}
+  Total packets: 3
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 387
+  IPs involved: {'204.14.234.85', '192.168.3.131'} <-> {'204.14.234.85', '192.168.3.131'}
+  Ports involved: {'443', '57243'} <-> {'443', '57243'}
+  Total packets: 251
+  Out-of-order packets: 7
+
+TCP Flow (Stream Index): 389
+  IPs involved: {'204.14.234.85', '192.168.3.131'} <-> {'204.14.234.85', '192.168.3.131'}
+  Ports involved: {'8443', '57243'} <-> {'57243', '8443'}
+  Total packets: 251
+  Out-of-order packets: 7
+
+TCP Flow (Stream Index): 390
+  IPs involved: {'204.14.234.85', '192.168.3.131'} <-> {'204.14.234.85', '192.168.3.131'}
+  Ports involved: {'443', '57244'} <-> {'443', '57244'}
+  Total packets: 215
+  Out-of-order packets: 4
+
+TCP Flow (Stream Index): 392
+  IPs involved: {'204.14.234.85', '192.168.3.131'} <-> {'204.14.234.85', '192.168.3.131'}
+  Ports involved: {'8443', '57244'} <-> {'8443', '57244'}
+  Total packets: 215
+  Out-of-order packets: 4
+
+TCP Flow (Stream Index): 396
+  IPs involved: {'66.235.136.89', '192.168.3.131'} <-> {'66.235.136.89', '192.168.3.131'}
+  Ports involved: {'443', '57242'} <-> {'443', '57242'}
+  Total packets: 6
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 399
+  IPs involved: {'66.235.136.89', '192.168.3.131'} <-> {'66.235.136.89', '192.168.3.131'}
+  Ports involved: {'8443', '57242'} <-> {'8443', '57242'}
+  Total packets: 6
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 402
+  IPs involved: {'10.0.2.15', '64.4.9.254'} <-> {'10.0.2.15', '64.4.9.254'}
+  Ports involved: {'61863', '2527'} <-> {'61863', '2527'}
+  Total packets: 17
+  TCP Retransmissions: 1
+
+TCP Flow (Stream Index): 405
+  IPs involved: {'10.0.2.15', '207.46.96.145'} <-> {'10.0.2.15', '207.46.96.145'}
+  Ports involved: {'2529', '5480'} <-> {'2529', '5480'}
+  Total packets: 77
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 406
+  IPs involved: {'10.0.2.15', '65.55.15.244'} <-> {'65.55.15.244', '10.0.2.15'}
+  Ports involved: {'5480', '2536'} <-> {'5480', '2536'}
+  Total packets: 30
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 407
+  IPs involved: {'10.0.2.15', '65.55.15.244'} <-> {'65.55.15.244', '10.0.2.15'}
+  Ports involved: {'2537', '5480'} <-> {'2537', '5480'}
+  Total packets: 24
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 408
+  IPs involved: {'10.0.2.15', '198.104.200.146'} <-> {'10.0.2.15', '198.104.200.146'}
+  Ports involved: {'2539', '5480'} <-> {'2539', '5480'}
+  Total packets: 8
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 409
+  IPs involved: {'10.0.2.15', '207.46.105.186'} <-> {'10.0.2.15', '207.46.105.186'}
+  Ports involved: {'2540', '5480'} <-> {'2540', '5480'}
+  Total packets: 10
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 411
+  IPs involved: {'10.0.2.15', '207.46.113.78'} <-> {'10.0.2.15', '207.46.113.78'}
+  Ports involved: {'2542', '5443'} <-> {'2542', '5443'}
+  Total packets: 25
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 413
+  IPs involved: {'10.0.2.15', '207.46.113.78'} <-> {'10.0.2.15', '207.46.113.78'}
+  Ports involved: {'2544', '5443'} <-> {'5443', '2544'}
+  Total packets: 29
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 417
+  IPs involved: {'10.0.2.15', '91.103.140.2'} <-> {'10.0.2.15', '91.103.140.2'}
+  Ports involved: {'2546', '5480'} <-> {'2546', '5480'}
+  Total packets: 8
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 419
+  IPs involved: {'10.0.2.15', '96.17.8.49'} <-> {'10.0.2.15', '96.17.8.49'}
+  Ports involved: {'2547', '5480'} <-> {'2547', '5480'}
+  Total packets: 21
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 420
+  IPs involved: {'10.0.2.15', '65.54.167.27'} <-> {'10.0.2.15', '65.54.167.27'}
+  Ports involved: {'5480', '2548'} <-> {'5480', '2548'}
+  Total packets: 82
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 451
+  IPs involved: {'204.14.234.85', '192.168.3.131'} <-> {'204.14.234.85', '192.168.3.131'}
+  Ports involved: {'57246', '443'} <-> {'57246', '443'}
+  Total packets: 107
+  Out-of-order packets: 4
+
+TCP Flow (Stream Index): 453
+  IPs involved: {'204.14.234.85', '192.168.3.131'} <-> {'204.14.234.85', '192.168.3.131'}
+  Ports involved: {'57246', '8443'} <-> {'57246', '8443'}
+  Total packets: 107
+  Out-of-order packets: 4
+
+TCP Flow (Stream Index): 462
+  IPs involved: {'10.0.2.15', '70.37.129.34'} <-> {'10.0.2.15', '70.37.129.34'}
+  Ports involved: {'5480', '2551'} <-> {'5480', '2551'}
+  Total packets: 20
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 463
+  IPs involved: {'204.14.234.85', '192.168.3.131'} <-> {'204.14.234.85', '192.168.3.131'}
+  Ports involved: {'57247', '443'} <-> {'57247', '443'}
+  Total packets: 80
+  Out-of-order packets: 3
+
+TCP Flow (Stream Index): 464
+  IPs involved: {'204.14.234.85', '192.168.3.131'} <-> {'204.14.234.85', '192.168.3.131'}
+  Ports involved: {'443', '57248'} <-> {'443', '57248'}
+  Total packets: 92
+  Out-of-order packets: 1
+
+TCP Flow (Stream Index): 465
+  IPs involved: {'204.14.234.85', '192.168.3.131'} <-> {'204.14.234.85', '192.168.3.131'}
+  Ports involved: {'57247', '8443'} <-> {'57247', '8443'}
+  Total packets: 80
+  Out-of-order packets: 3
+
+TCP Flow (Stream Index): 466
+  IPs involved: {'204.14.234.85', '192.168.3.131'} <-> {'204.14.234.85', '192.168.3.131'}
+  Ports involved: {'8443', '57248'} <-> {'8443', '57248'}
+  Total packets: 92
+  Out-of-order packets: 1
+
+TCP Flow (Stream Index): 469
+  IPs involved: {'172.16.255.1'} <-> {'67.215.65.132'}
+  Ports involved: {'10704'} <-> {'445'}
+  Total packets: 3
+  TCP Retransmissions: 2
+
+TCP Flow (Stream Index): 470
+  IPs involved: {'172.16.255.1'} <-> {'67.215.65.132'}
+  Ports involved: {'10705'} <-> {'445'}
+  Total packets: 3
+  TCP Retransmissions: 2
+
+TCP Flow (Stream Index): 471
+  IPs involved: {'10.0.2.15', '70.37.129.32'} <-> {'10.0.2.15', '70.37.129.32'}
+  Ports involved: {'5480', '2552'} <-> {'5480', '2552'}
+  Total packets: 22
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 474
+  IPs involved: {'10.0.2.15', '70.37.129.34'} <-> {'10.0.2.15', '70.37.129.34'}
+  Ports involved: {'5480', '2553'} <-> {'5480', '2553'}
+  Total packets: 20
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 475
+  IPs involved: {'10.0.2.15', '70.37.129.34'} <-> {'10.0.2.15', '70.37.129.34'}
+  Ports involved: {'5480', '2554'} <-> {'5480', '2554'}
+  Total packets: 19
+  TCP Resets: 1
+
+TCP Flow (Stream Index): 479
+  IPs involved: {'204.14.234.101', '192.168.3.131'} <-> {'204.14.234.101', '192.168.3.131'}
+  Ports involved: {'57231', '443'} <-> {'57231', '443'}
+  Total packets: 11
+  Out-of-order packets: 1
+
+TCP Flow (Stream Index): 481
+  IPs involved: {'204.14.234.101', '192.168.3.131'} <-> {'204.14.234.101', '192.168.3.131'}
+  Ports involved: {'57231', '8443'} <-> {'57231', '8443'}
+  Total packets: 11
+  Out-of-order packets: 1

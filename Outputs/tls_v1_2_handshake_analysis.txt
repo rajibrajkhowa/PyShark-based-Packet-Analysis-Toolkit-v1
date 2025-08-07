@@ -1,0 +1,22 @@
+Analyzing file: tlsv2.pcapng
+TLS Handshake Analysis Summary:
+Total TLS streams analyzed: 1
+Successful TLS handshakes: 1
+Incomplete TLS handshakes: 0
+
+Detailed TLS Handshake Analysis:
+
+TCP Stream Index: 0
+Client IP: 127.0.0.1
+Server IP: 127.0.0.1
+TLS Handshake Status:
+  Client Hello: Yes
+  Server Hello: Yes
+  Certificate: Yes
+  Server Key Exchange: Yes
+  Server Hello Done: Yes
+  Client Key Exchange: Yes
+  Change Cipher Spec Client: Yes
+  New Session Ticket: Yes
+  Change Cipher Spec Server: Yes
+TLS Handshake: Successful

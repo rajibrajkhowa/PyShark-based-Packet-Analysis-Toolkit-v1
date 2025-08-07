@@ -1,0 +1,531 @@
+Summary:
+Total number of TCP flows: 485
+Number of TCP flows with bad TCP packets: 75
+
+
+TCP Flows with Bad TCP Packets:
+
+TCP Stream Index: 2
+  Source: 192.168.3.131:52152
+  Destination: 72.14.213.147:443
+  Total TCP packets: 306
+  Bad TCP packets: 85
+  Percentage of bad TCP packets: 27.78%
+
+TCP Stream Index: 10
+  Source: 192.168.3.131:55960
+  Destination: 206.108.207.139:80
+  Total TCP packets: 31
+  Bad TCP packets: 16
+  Percentage of bad TCP packets: 51.61%
+
+TCP Stream Index: 16
+  Source: 192.168.3.131:55968
+  Destination: 72.14.213.101:80
+  Total TCP packets: 25
+  Bad TCP packets: 10
+  Percentage of bad TCP packets: 40.00%
+
+TCP Stream Index: 25
+  Source: 72.14.213.18:443
+  Destination: 192.168.3.131:49673
+  Total TCP packets: 132
+  Bad TCP packets: 53
+  Percentage of bad TCP packets: 40.15%
+
+TCP Stream Index: 28
+  Source: 192.168.3.131:52202
+  Destination: 72.14.213.102:443
+  Total TCP packets: 131
+  Bad TCP packets: 2
+  Percentage of bad TCP packets: 1.53%
+
+TCP Stream Index: 47
+  Source: 192.168.3.131:56021
+  Destination: 66.235.139.121:80
+  Total TCP packets: 15
+  Bad TCP packets: 6
+  Percentage of bad TCP packets: 40.00%
+
+TCP Stream Index: 68
+  Source: 192.168.3.131:56048
+  Destination: 66.220.149.32:80
+  Total TCP packets: 66
+  Bad TCP packets: 19
+  Percentage of bad TCP packets: 28.79%
+
+TCP Stream Index: 73
+  Source: 192.168.3.131:56053
+  Destination: 66.235.133.62:80
+  Total TCP packets: 11
+  Bad TCP packets: 5
+  Percentage of bad TCP packets: 45.45%
+
+TCP Stream Index: 90
+  Source: 192.168.3.131:58327
+  Destination: 208.82.236.129:80
+  Total TCP packets: 15
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 6.67%
+
+TCP Stream Index: 111
+  Source: 192.168.3.131:56126
+  Destination: 66.235.139.121:80
+  Total TCP packets: 17
+  Bad TCP packets: 9
+  Percentage of bad TCP packets: 52.94%
+
+TCP Stream Index: 118
+  Source: 192.168.3.131:56134
+  Destination: 66.235.133.62:80
+  Total TCP packets: 10
+  Bad TCP packets: 5
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 128
+  Source: 192.168.3.131:56161
+  Destination: 66.235.139.121:80
+  Total TCP packets: 11
+  Bad TCP packets: 7
+  Percentage of bad TCP packets: 63.64%
+
+TCP Stream Index: 133
+  Source: 192.168.3.131:56168
+  Destination: 206.108.207.155:80
+  Total TCP packets: 55
+  Bad TCP packets: 2
+  Percentage of bad TCP packets: 3.64%
+
+TCP Stream Index: 166
+  Source: 192.168.3.131:58486
+  Destination: 208.82.236.130:80
+  Total TCP packets: 18
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 5.56%
+
+TCP Stream Index: 169
+  Source: 172.16.255.1:10623
+  Destination: 194.165.188.79:33033
+  Total TCP packets: 2
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 177
+  Source: 172.16.255.1:10628
+  Destination: 194.165.188.76:12350
+  Total TCP packets: 2
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 178
+  Source: 172.16.255.1:10629
+  Destination: 212.8.166.36:12350
+  Total TCP packets: 2
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 180
+  Source: 10.0.2.15:1095
+  Destination: 192.168.3.90:139
+  Total TCP packets: 26
+  Bad TCP packets: 7
+  Percentage of bad TCP packets: 26.92%
+
+TCP Stream Index: 181
+  Source: 172.16.255.1:10631
+  Destination: 204.9.163.184:12350
+  Total TCP packets: 2
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 209
+  Source: 172.16.255.1:10637
+  Destination: 204.9.163.184:443
+  Total TCP packets: 21
+  Bad TCP packets: 2
+  Percentage of bad TCP packets: 9.52%
+
+TCP Stream Index: 219
+  Source: 10.0.2.15:2527
+  Destination: 64.4.9.254:1863
+  Total TCP packets: 17
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 5.88%
+
+TCP Stream Index: 222
+  Source: 192.168.3.131:58517
+  Destination: 208.82.236.130:80
+  Total TCP packets: 13
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 7.69%
+
+TCP Stream Index: 225
+  Source: 172.16.255.1:10647
+  Destination: 184.85.226.161:443
+  Total TCP packets: 103
+  Bad TCP packets: 2
+  Percentage of bad TCP packets: 1.94%
+
+TCP Stream Index: 226
+  Source: 172.16.255.1:10648
+  Destination: 66.235.143.184:443
+  Total TCP packets: 24
+  Bad TCP packets: 2
+  Percentage of bad TCP packets: 8.33%
+
+TCP Stream Index: 227
+  Source: 172.16.255.1:10649
+  Destination: 184.85.226.161:443
+  Total TCP packets: 32
+  Bad TCP packets: 2
+  Percentage of bad TCP packets: 6.25%
+
+TCP Stream Index: 231
+  Source: 172.16.255.1:10653
+  Destination: 128.241.90.211:80
+  Total TCP packets: 44
+  Bad TCP packets: 2
+  Percentage of bad TCP packets: 4.55%
+
+TCP Stream Index: 232
+  Source: 172.16.255.1:10654
+  Destination: 128.241.90.211:80
+  Total TCP packets: 45
+  Bad TCP packets: 3
+  Percentage of bad TCP packets: 6.67%
+
+TCP Stream Index: 233
+  Source: 172.16.255.1:10655
+  Destination: 128.241.90.211:80
+  Total TCP packets: 34
+  Bad TCP packets: 4
+  Percentage of bad TCP packets: 11.76%
+
+TCP Stream Index: 243
+  Source: 172.16.255.1:10659
+  Destination: 109.255.178.86:443
+  Total TCP packets: 15
+  Bad TCP packets: 5
+  Percentage of bad TCP packets: 33.33%
+
+TCP Stream Index: 244
+  Source: 172.16.255.1:10661
+  Destination: 67.215.65.132:443
+  Total TCP packets: 13
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 7.69%
+
+TCP Stream Index: 245
+  Source: 172.16.255.1:10665
+  Destination: 67.215.65.132:443
+  Total TCP packets: 13
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 7.69%
+
+TCP Stream Index: 247
+  Source: 172.16.255.1:10667
+  Destination: 194.192.199.252:443
+  Total TCP packets: 58
+  Bad TCP packets: 3
+  Percentage of bad TCP packets: 5.17%
+
+TCP Stream Index: 248
+  Source: 172.16.255.1:10668
+  Destination: 204.194.237.136:80
+  Total TCP packets: 13
+  Bad TCP packets: 3
+  Percentage of bad TCP packets: 23.08%
+
+TCP Stream Index: 249
+  Source: 172.16.255.1:10669
+  Destination: 204.194.237.136:80
+  Total TCP packets: 12
+  Bad TCP packets: 3
+  Percentage of bad TCP packets: 25.00%
+
+TCP Stream Index: 254
+  Source: 172.16.255.1:10672
+  Destination: 212.8.163.80:54900
+  Total TCP packets: 2
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 255
+  Source: 172.16.255.1:10673
+  Destination: 212.8.163.80:54900
+  Total TCP packets: 2
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 259
+  Source: 172.16.255.1:10674
+  Destination: 212.8.163.80:43400
+  Total TCP packets: 2
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 260
+  Source: 172.16.255.1:10675
+  Destination: 212.8.163.80:43400
+  Total TCP packets: 2
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 262
+  Source: 172.16.255.1:10676
+  Destination: 204.9.163.160:35777
+  Total TCP packets: 2
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 263
+  Source: 172.16.255.1:10677
+  Destination: 204.9.163.160:35777
+  Total TCP packets: 2
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 270
+  Source: 192.168.3.131:58543
+  Destination: 208.82.236.130:80
+  Total TCP packets: 19
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 5.26%
+
+TCP Stream Index: 272
+  Source: 192.168.3.131:58547
+  Destination: 204.9.163.166:80
+  Total TCP packets: 16
+  Bad TCP packets: 5
+  Percentage of bad TCP packets: 31.25%
+
+TCP Stream Index: 282
+  Source: 192.168.3.131:56317
+  Destination: 66.235.139.121:80
+  Total TCP packets: 11
+  Bad TCP packets: 7
+  Percentage of bad TCP packets: 63.64%
+
+TCP Stream Index: 287
+  Source: 192.168.3.131:56323
+  Destination: 66.235.133.62:80
+  Total TCP packets: 7
+  Bad TCP packets: 3
+  Percentage of bad TCP packets: 42.86%
+
+TCP Stream Index: 292
+  Source: 192.168.3.131:56328
+  Destination: 76.74.140.168:80
+  Total TCP packets: 11
+  Bad TCP packets: 6
+  Percentage of bad TCP packets: 54.55%
+
+TCP Stream Index: 300
+  Source: 192.168.3.131:56356
+  Destination: 66.235.139.121:80
+  Total TCP packets: 11
+  Bad TCP packets: 7
+  Percentage of bad TCP packets: 63.64%
+
+TCP Stream Index: 305
+  Source: 192.168.3.131:56361
+  Destination: 66.235.133.62:80
+  Total TCP packets: 7
+  Bad TCP packets: 3
+  Percentage of bad TCP packets: 42.86%
+
+TCP Stream Index: 314
+  Source: 192.168.3.131:58609
+  Destination: 208.82.236.130:80
+  Total TCP packets: 21
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 4.76%
+
+TCP Stream Index: 316
+  Source: 192.168.3.131:56401
+  Destination: 66.235.139.121:80
+  Total TCP packets: 10
+  Bad TCP packets: 3
+  Percentage of bad TCP packets: 30.00%
+
+TCP Stream Index: 355
+  Source: 172.16.255.1:10692
+  Destination: 10.1.1.2:50023
+  Total TCP packets: 2
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 356
+  Source: 172.16.255.1:10693
+  Destination: 10.1.1.2:50023
+  Total TCP packets: 2
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 361
+  Source: 192.168.3.131:56494
+  Destination: 66.235.139.121:80
+  Total TCP packets: 6
+  Bad TCP packets: 3
+  Percentage of bad TCP packets: 50.00%
+
+TCP Stream Index: 376
+  Source: 192.168.3.131:49166
+  Destination: 192.168.3.90:445
+  Total TCP packets: 16
+  Bad TCP packets: 7
+  Percentage of bad TCP packets: 43.75%
+
+TCP Stream Index: 387
+  Source: 192.168.3.131:57243
+  Destination: 204.14.234.85:443
+  Total TCP packets: 251
+  Bad TCP packets: 32
+  Percentage of bad TCP packets: 12.75%
+
+TCP Stream Index: 389
+  Source: 192.168.3.131:57243
+  Destination: 204.14.234.85:8443
+  Total TCP packets: 251
+  Bad TCP packets: 32
+  Percentage of bad TCP packets: 12.75%
+
+TCP Stream Index: 390
+  Source: 192.168.3.131:57244
+  Destination: 204.14.234.85:443
+  Total TCP packets: 215
+  Bad TCP packets: 22
+  Percentage of bad TCP packets: 10.23%
+
+TCP Stream Index: 392
+  Source: 192.168.3.131:57244
+  Destination: 204.14.234.85:8443
+  Total TCP packets: 215
+  Bad TCP packets: 22
+  Percentage of bad TCP packets: 10.23%
+
+TCP Stream Index: 396
+  Source: 192.168.3.131:57242
+  Destination: 66.235.136.89:443
+  Total TCP packets: 6
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 16.67%
+
+TCP Stream Index: 399
+  Source: 192.168.3.131:57242
+  Destination: 66.235.136.89:8443
+  Total TCP packets: 6
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 16.67%
+
+TCP Stream Index: 402
+  Source: 10.0.2.15:2527
+  Destination: 64.4.9.254:61863
+  Total TCP packets: 17
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 5.88%
+
+TCP Stream Index: 416
+  Source: 192.168.3.131:58769
+  Destination: 72.14.213.138:80
+  Total TCP packets: 9
+  Bad TCP packets: 3
+  Percentage of bad TCP packets: 33.33%
+
+TCP Stream Index: 450
+  Source: 192.168.3.131:57245
+  Destination: 204.14.234.85:443
+  Total TCP packets: 120
+  Bad TCP packets: 8
+  Percentage of bad TCP packets: 6.67%
+
+TCP Stream Index: 451
+  Source: 192.168.3.131:57246
+  Destination: 204.14.234.85:443
+  Total TCP packets: 107
+  Bad TCP packets: 17
+  Percentage of bad TCP packets: 15.89%
+
+TCP Stream Index: 452
+  Source: 192.168.3.131:57245
+  Destination: 204.14.234.85:8443
+  Total TCP packets: 120
+  Bad TCP packets: 8
+  Percentage of bad TCP packets: 6.67%
+
+TCP Stream Index: 453
+  Source: 192.168.3.131:57246
+  Destination: 204.14.234.85:8443
+  Total TCP packets: 107
+  Bad TCP packets: 17
+  Percentage of bad TCP packets: 15.89%
+
+TCP Stream Index: 463
+  Source: 192.168.3.131:57247
+  Destination: 204.14.234.85:443
+  Total TCP packets: 80
+  Bad TCP packets: 12
+  Percentage of bad TCP packets: 15.00%
+
+TCP Stream Index: 464
+  Source: 192.168.3.131:57248
+  Destination: 204.14.234.85:443
+  Total TCP packets: 92
+  Bad TCP packets: 9
+  Percentage of bad TCP packets: 9.78%
+
+TCP Stream Index: 465
+  Source: 192.168.3.131:57247
+  Destination: 204.14.234.85:8443
+  Total TCP packets: 80
+  Bad TCP packets: 12
+  Percentage of bad TCP packets: 15.00%
+
+TCP Stream Index: 466
+  Source: 192.168.3.131:57248
+  Destination: 204.14.234.85:8443
+  Total TCP packets: 92
+  Bad TCP packets: 9
+  Percentage of bad TCP packets: 9.78%
+
+TCP Stream Index: 469
+  Source: 172.16.255.1:10704
+  Destination: 67.215.65.132:445
+  Total TCP packets: 3
+  Bad TCP packets: 2
+  Percentage of bad TCP packets: 66.67%
+
+TCP Stream Index: 470
+  Source: 172.16.255.1:10705
+  Destination: 67.215.65.132:445
+  Total TCP packets: 3
+  Bad TCP packets: 2
+  Percentage of bad TCP packets: 66.67%
+
+TCP Stream Index: 477
+  Source: 192.168.3.131:57249
+  Destination: 204.14.234.85:443
+  Total TCP packets: 19
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 5.26%
+
+TCP Stream Index: 478
+  Source: 192.168.3.131:57249
+  Destination: 204.14.234.85:8443
+  Total TCP packets: 19
+  Bad TCP packets: 1
+  Percentage of bad TCP packets: 5.26%
+
+TCP Stream Index: 479
+  Source: 192.168.3.131:57231
+  Destination: 204.14.234.101:443
+  Total TCP packets: 11
+  Bad TCP packets: 2
+  Percentage of bad TCP packets: 18.18%
+
+TCP Stream Index: 481
+  Source: 192.168.3.131:57231
+  Destination: 204.14.234.101:8443
+  Total TCP packets: 11
+  Bad TCP packets: 2
+  Percentage of bad TCP packets: 18.18%

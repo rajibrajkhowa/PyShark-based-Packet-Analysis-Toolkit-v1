@@ -1,0 +1,37 @@
+Analyzing file: tlsv3_full.pcapng
+TLS v1.3 Handshake Analysis Summary:
+Total TLS v1.3 streams analyzed: 3
+Successful TLS v1.3 handshakes: 3
+Incomplete TLS v1.3 handshakes: 0
+
+Detailed TLS v1.3 Handshake Analysis:
+
+TCP Stream Index: 20
+Client IP: 192.168.1.4
+Server IP: 140.82.114.22
+TLS v1.3 Handshake Status:
+  Client Hello: Yes
+  Server Hello: Yes
+  Change Cipher Spec Server: Yes
+  Change Cipher Spec Client: Yes
+TLS v1.3 Handshake: Successful
+
+TCP Stream Index: 73
+Client IP: 192.168.1.4
+Server IP: 63.140.36.165
+TLS v1.3 Handshake Status:
+  Client Hello: Yes
+  Server Hello: Yes
+  Change Cipher Spec Server: Yes
+  Change Cipher Spec Client: Yes
+TLS v1.3 Handshake: Successful
+
+TCP Stream Index: 74
+Client IP: 192.168.1.4
+Server IP: 63.140.36.165
+TLS v1.3 Handshake Status:
+  Client Hello: Yes
+  Server Hello: Yes
+  Change Cipher Spec Server: Yes
+  Change Cipher Spec Client: Yes
+TLS v1.3 Handshake: Successful
