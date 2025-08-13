@@ -1,0 +1,22 @@
+TCP Retransmission Analysis:
+
+TCP Flow (Stream Index): 0
+  IPs involved: {'192.168.10.184', '192.168.10.196'} <-> {'192.168.10.184', '192.168.10.196'}
+  Ports involved: {'52343', '5201'} <-> {'52343', '5201'}
+  Total retransmissions: 2
+  Retransmitted Sequence Numbers:
+    Sequence Number: 4347022
+      Expected Next Sequence Number: 4348482
+      First Fast Retransmission Time: 2020-04-21 21:34:04.579948 UTC
+      First Fast Retransmission Frame Number: 3361
+      ACK Time: 2020-04-21 21:34:04.804780 UTC
+      ACK Frame Number: 3503
+      Recovery Time: 0.224832 seconds
+    Sequence Number: 4348482
+      Expected Next Sequence Number: 4349942
+      First Fast Retransmission Time: 2020-04-21 21:34:04.600250 UTC
+      First Fast Retransmission Frame Number: 3388
+      ACK Time: Not observed
+      ACK Frame Number: Not observed
+      Recovery Time: Unable to calculate
+
