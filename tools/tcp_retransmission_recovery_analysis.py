@@ -45,8 +45,10 @@ def analyze_tcp_retransmissions_recovery(capture_file):
                         'frame_number': frame_number,
                         'type': retrans_type
                     }
-
-            ack_num = int(tcp_layer.ack)
+            if hasattr(tcp_layer,'ack'):
+                ack_num = int(tcp_layer.ack)
+            else:
+                ack_num = None
             flows[stream_index]['acks'][ack_num].append((float(packet.sniff_timestamp), frame_number))
 
     with open(output_file, 'w') as f:
